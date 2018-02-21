@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#2e8bc9</color>
+    <color name="colorPrimaryDark">#4888b3</color>
+    <color name="colorAccent">#f9f9f9</color>
+
+    <!--Login-->
+    <color name="color1">#03e6ff</color>
+    <color name="color2">#8e03ff</color>
+    <color name="color3">#ff7003</color>
+    <color name="color4">#912f01</color>
+    <color name="color5">#d00000</color>
+    <color name="color6">#208649</color>
+    <color name="bg_bubble_self">#E1E1E1</color>
+    <color name="list_divider">#dedede</color>
+    <color name="text_color_primary">#f6f6f6</color>
+    <color name="foreground_material_light">#000000</color>
+    <color name="background_material_light">#ffffff</color>
+
+
+
+    <!--dashboard messages-->
+    <color name="from_name">#000000</color>
+    <color name="subject">#111111</color>
+    <color name="timestamp">#4285f4</color>
+    <color name="message">#7a7a7a</color>
+    <color name="icon_tint_normal">#7a7a7a</color>
+    <color name="icon_tint_selected">#fed776</color>
+    <color name="row_activated">#e0e0e0</color>
+    <color name="bg_action_mode">#757575</color>
+    <color name="bg_circle_default">#666666</color>
+
+
+    <!--Tab-->
+    <color name="lightgrey">#d1d1d1</color>
+    <color name="pink">#EA2164 </color>
+    <color name="text">#545454</color>
+</resources>
